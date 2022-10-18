@@ -60,7 +60,7 @@ img.icon {
 	display:  inline-flex;
 	margin: 0 auto;
 	padding:  10px;
-	text-align: center;
+	text-align: left;
 }
 .flex > div{
 	flex-bases:  30%;
